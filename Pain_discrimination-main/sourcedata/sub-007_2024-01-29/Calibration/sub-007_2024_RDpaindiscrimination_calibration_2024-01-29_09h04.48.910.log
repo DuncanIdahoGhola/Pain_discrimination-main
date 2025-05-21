@@ -1,0 +1,4 @@
+13.9114 	ERROR 	'0.0000, 0.0000, 0.0000' is not a valid rgb color
+13.9549 	WARNING 	User requested fullscreen with size [4096 1152], but screen is actually [1920, 1080]. Using actual size
+20.0678 	DEPRECATION 	RatingScale: custom marker has no draw() method
+20.2145 	DEPRECATION 	RatingScale: custom marker has no draw() method

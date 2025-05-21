@@ -1,0 +1,53 @@
+Horodateur,  # Participant  ,1. Date d'aujourd'hui (veuillez l'inscrire sous la forme jj-mm-aaaa),2. Quel est votre âge en années? ,3. Quel sexe vous a été assigné à la naissance? ,4. Quel est votre genre? ,5. Genre (si autre à la question précédente),6. À quelle ethnicité vous identifiez-vous (couchez tout ce qui s'applique)?,7. Ethnicité (si autre à la question précédente):,"8. Quel est le plus haut diplôme que vous avez obtenu (ou équivalent)?
+
+Choisissez une seule réponse. ",9. Quelle est votre main dominante? ,pcs_total,iastay1_total,iastay2_total
+23/01/2024 14:01:38,sub-001,23-01-2024,21,Féminin,Féminin,,Blanc,,CÉGEP/Collège/Technique,Droite,19.0,28.0,31.0
+23/01/2024 15:33:46,sub-002,23-01-2024,22,Féminin,Féminin,,Blanc,,"Baccalauréat (p. ex. B.A., B.Sc., B.Ed., LL.B.)",Droite,5.0,20.0,22.0
+23/01/2024 17:07:31,sub-003,23-01-2024,22,Féminin,Féminin,,Chinois,,"Baccalauréat (p. ex. B.A., B.Sc., B.Ed., LL.B.)",Droite,12.0,31.0,35.0
+25/01/2024 10:12:58,sub-004,25/01/2024,21,Masculin,Masculin,,Blanc,,"Baccalauréat (p. ex. B.A., B.Sc., B.Ed., LL.B.)",Droite,10.0,21.0,27.0
+25/01/2024 11:51:20,sub-005,sub-005,29,Masculin,Masculin,,Noir,,"Doctorat professionnel (M.D., D.D.S., D.M.D., D.M.V., O.D., D.Psy.)",Droite,20.0,32.0,33.0
+25/01/2024 13:02:08,sub-006,25-01-2024,23,Masculin,Masculin,,Blanc,,"Baccalauréat (p. ex. B.A., B.Sc., B.Ed., LL.B.)",Droite,4.0,22.0,33.0
+29/01/2024 10:21:44,sub-007,29-01-2024,23,Féminin,Féminin,,Blanc,,"Baccalauréat (p. ex. B.A., B.Sc., B.Ed., LL.B.)",Droite,12.0,37.0,49.0
+29/01/2024 11:44:48,sub-008,29 janvier 2024,35,Masculin,Masculin,,Blanc,,CÉGEP/Collège/Technique,Droite,11.0,21.0,30.0
+30/01/2024 15:39:18,sub-010,30-01-2024,26,Féminin,Féminin,,Blanc,,"Baccalauréat (p. ex. B.A., B.Sc., B.Ed., LL.B.)",Droite,2.0,28.0,43.0
+02/02/2024 11:36:04,sub-011,02-02-2024,27,Féminin,Féminin,,Blanc,,"Maîtrise (p. ex. M.A., M.Sc., M.Ed., M.B.A.)",Droite,22.0,20.0,52.0
+05/02/2024 10:22:15,sub-012,29-06-2003,20,Féminin,Féminin,,Blanc,,"Baccalauréat (p. ex. B.A., B.Sc., B.Ed., LL.B.)",Droite,31.0,26.0,43.0
+05/02/2024 11:50:26,sub-013,05-02-2024,27,Féminin,Féminin,,Chinois,,"Baccalauréat (p. ex. B.A., B.Sc., B.Ed., LL.B.)",Gauche,6.0,26.0,31.0
+05/02/2024 13:27:51,sub-014,05-02-2024,38,Masculin,Masculin,,"Blanc, Chinois",,CÉGEP/Collège/Technique,Gauche,12.0,36.0,35.0
+06/02/2024 15:48:20,sub-015,06-02-2024,18,Masculin,Masculin,,Arabe,,CÉGEP/Collège/Technique,Droite,24.0,22.0,44.0
+06/02/2024 17:10:34,sub-016,06-02-1994,29,Masculin,Masculin,,Latino-Américain,,"Maîtrise (p. ex. M.A., M.Sc., M.Ed., M.B.A.)",Droite,9.0,42.0,40.0
+08/02/2024 10:21:05,sub-017,08-02-2024,23,Féminin,Féminin,,Arabe,,"Maîtrise (p. ex. M.A., M.Sc., M.Ed., M.B.A.)",Droite,33.0,28.0,50.0
+08/02/2024 11:48:38,sub-018,08-02-2024,24,Masculin,Masculin,,Blanc,,"Baccalauréat (p. ex. B.A., B.Sc., B.Ed., LL.B.)",Droite,nan,40.0,30.0
+08/02/2024 13:08:09,sub-019,08-02-2024,20,Féminin,Féminin,,Blanc,,CÉGEP/Collège/Technique,Droite,7,30.0,29.0
+09/02/2024 10:38:43,sub-020,09-02-2024,21,Féminin,Féminin,,"Blanc, Asiatique du Sud-Est (p. ex. Vietnamien, Cambodgien, Laotien, Thaïlandais)",,CÉGEP/Collège/Technique,Gauche,25,27.0,47.0
+09/02/2024 14:17:13,sub-021,09-02-2024,52,Féminin,Féminin,,Blanc,,CÉGEP/Collège/Technique,Droite,7,39.0,29.0
+13/02/2024 17:39:43,sub-022,13-02-2024,39,Masculin,Masculin,,Blanc,blanc,CÉGEP/Collège/Technique,Droite,16,20.0,32.0
+15/02/2024 11:51:16,sub-023,15-02-2024,21,Masculin,Masculin,,Blanc,,Secondaire/Professionnel,Ambidextre,8,29.0,40.0
+19/02/2024 10:17:50,sub-024,19-02-2024,25,Féminin,Féminin,,Blanc,,"Maîtrise (p. ex. M.A., M.Sc., M.Ed., M.B.A.)",Droite,24,27.0,56.0
+19/02/2024 12:03:33,sub-025,19-02-2024,24,Féminin,Féminin,,Blanc,,"Maîtrise (p. ex. M.A., M.Sc., M.Ed., M.B.A.)",Gauche,15,36.0,53.0
+19/02/2024 13:54:06,sub-026,19-02-2024,52,Féminin,Féminin,,Blanc,,"Baccalauréat (p. ex. B.A., B.Sc., B.Ed., LL.B.)",Droite,18,36.0,40.0
+20/02/2024 14:24:52,sub-027,20-02-2024,20,Masculin,Masculin,,Blanc,,CÉGEP/Collège/Technique,Droite,21,39.0,43.0
+20/02/2024 15:49:59,sub-028,20-02-2024,19,Féminin,Féminin,,Blanc,,Secondaire/Professionnel,Droite,23,43.0,37.0
+22/02/2024 10:11:23,sub-029,22-02-2024,23,Masculin,Masculin,,Blanc,,"Baccalauréat (p. ex. B.A., B.Sc., B.Ed., LL.B.)",Droite,14,29.0,40.0
+22/02/2024 11:56:17,sub-030,22-02-2024,21,Féminin,Féminin,,Blanc,,CÉGEP/Collège/Technique,Droite,30,29.0,65.0
+22/02/2024 13:41:16,sub-031,22-02-2024,22,Féminin,Féminin,,Blanc,,"Baccalauréat (p. ex. B.A., B.Sc., B.Ed., LL.B.)",Droite,23,44.0,29.0
+26/02/2024 10:17:41,sub-032,26-02-2024,21,Masculin,Masculin,,"Blanc, Latino-Américain",,Secondaire/Professionnel,Droite,nan,22.0,60.0
+18/03/2024 16:55:42,sub-033,18-03-2024,22,Masculin,Masculin,,Blanc,,"Maîtrise (p. ex. M.A., M.Sc., M.Ed., M.B.A.)",Droite,22,43.0,42.0
+29/04/2024 10:53:43,sub-034,29-04-2024,24,Féminin,Féminin,,Noir,,"Maîtrise (p. ex. M.A., M.Sc., M.Ed., M.B.A.)",Droite,20,35.0,35.0
+03/05/2024 14:38:03,sub-035,03-05-2024,31,Féminin,Féminin,,Blanc,,"Maîtrise (p. ex. M.A., M.Sc., M.Ed., M.B.A.)",Gauche,13,29.0,32.0
+06/05/2024 10:07:27,sub-036,05-05-2024,30,Féminin,Masculin,,Blanc,,CÉGEP/Collège/Technique,Droite,16,26.0,51.0
+23/05/2024 12:46:46,sub-037,23-05-2024,49,Masculin,Masculin,,Blanc,,"Baccalauréat (p. ex. B.A., B.Sc., B.Ed., LL.B.)",Droite,13,36.0,29.0
+27/05/2024 10:11:36,sub-038,27-05-2024,24,Masculin,Masculin,,Blanc,,CÉGEP/Collège/Technique,Droite,14,25.0,44.0
+03/06/2024 14:19:49,sub-039,03-06-2024,24,Masculin,Masculin,,Noir,,"Baccalauréat (p. ex. B.A., B.Sc., B.Ed., LL.B.)",Droite,16,27.0,46.0
+07/06/2024 14:10:39,sub-040,07-06-2024,33,Féminin,Féminin,,Blanc,,"Maîtrise (p. ex. M.A., M.Sc., M.Ed., M.B.A.)",Droite,25,33.0,43.0
+10/06/2024 14:07:33,sub-041,10-06-2024,21,Féminin,Féminin,,Blanc,,CÉGEP/Collège/Technique,Droite,25,36.0,35.0
+10/06/2024 16:01:39,sub-042,10-06-2024,22,Féminin,Féminin,,Blanc,,CÉGEP/Collège/Technique,Droite,4,28.0,24.0
+13/06/2024 10:16:59,sub-043,13-06-2024,20,Féminin,Féminin,,Blanc,,CÉGEP/Collège/Technique,Droite,10,22.0,42.0
+20/06/2024 12:10:27,sub-044,20-06-2024,23,Féminin,Féminin,,Blanc,,"Baccalauréat (p. ex. B.A., B.Sc., B.Ed., LL.B.)",Droite,15,33.0,43.0
+04/07/2024 10:15:19,sub-045,04-07-2024,25,Féminin,Féminin,,Blanc,,"Baccalauréat (p. ex. B.A., B.Sc., B.Ed., LL.B.)",Droite,14,31.0,44.0
+08/07/2024 14:21:49,sub-046,08-07-2024,37,Féminin,Féminin,,Blanc,,"Maîtrise (p. ex. M.A., M.Sc., M.Ed., M.B.A.)",Droite,30,24.0,37.0
+11/07/2024 10:14:46,sub-047,11-07-2024,26,Féminin,Autre (précisez ci-dessous),non binary,Blanc,,"Maîtrise (p. ex. M.A., M.Sc., M.Ed., M.B.A.)",Droite,8,29.0,57.0
+25/07/2024 10:23:26,sub-048,25-07-2025,25,Féminin,Féminin,,Blanc,,Secondaire/Professionnel,Ambidextre,15,27.0,39.0
+01/08/2024 10:07:01,sub-049,01-08-2024,33,Féminin,Féminin,,Blanc,,"Maîtrise (p. ex. M.A., M.Sc., M.Ed., M.B.A.)",Droite,12,39.0,49.0
+05/08/2024 15:57:58,sub-050,05-08-2024,22,Masculin,Masculin,,Blanc,,CÉGEP/Collège/Technique,Droite,7,26.0,34.0
+08/08/2024 12:21:32,sub-051,08/08/2024,58,Féminin,Féminin,,Blanc,,"Maîtrise (p. ex. M.A., M.Sc., M.Ed., M.B.A.)",Gauche,6,22.0,32.0

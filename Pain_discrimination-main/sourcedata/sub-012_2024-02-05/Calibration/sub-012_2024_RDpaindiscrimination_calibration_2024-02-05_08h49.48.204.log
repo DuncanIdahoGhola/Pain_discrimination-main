@@ -1,0 +1,3 @@
+14.8529 	ERROR 	'0.0000, 0.0000, 0.0000' is not a valid rgb color
+17.1017 	DEPRECATION 	RatingScale: custom marker has no draw() method
+17.1447 	DEPRECATION 	RatingScale: custom marker has no draw() method
